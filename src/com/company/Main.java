@@ -134,7 +134,7 @@ public class Main {
 
     public static void printMenu (){
         System.out.println();
-        System.out.println("1. sukurti varotoja, 2. persiureti vartotoja, 3. i6trinti useri 4. padaryti pavedima 5. papildyti ssaskaita 0. baigti programa");
+        System.out.println("1. sukurti varotoja, 2. persiureti vartotoja, 3. i6trinti useri 4. padaryti pavedima 5. papildyti saskaita 0. baigti programa");
     }
 
 
